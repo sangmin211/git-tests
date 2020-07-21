@@ -3,4 +3,19 @@ git 초기 설정
 git config --global user.name 'sangmin'
 git config --global user.email '이메일'
 
+git status
+
+git add .
+
+git commit -m 'css add'
+
 git branch
+
+git checkout alert
+
+git marge branch 이름
+
+git remote add origin https://github.com/sangmin211/git-tests.git
+
+git push -u origin master
+
