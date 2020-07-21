@@ -19,5 +19,5 @@ git remote add origin https://github.com/sangmin211/git-tests.git
 
 git push -u origin master
 
-ssssss
+ssssssss
 
